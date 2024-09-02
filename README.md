@@ -1,8 +1,21 @@
 # Place Picker
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Live Site](#live-site)
+- [Key Features](#key-features)
+- [Project Structure](#project-structure)
+- [Learning Outcomes](#learning-outcomes)
+- [Dependencies](#dependencies)
+
 ## Project Overview
 
 **Place Picker** is a web application designed to help users explore and select various travel destinations. It leverages React's modern hooks, including `useEffect`, to manage component lifecycle events and state, ensuring a dynamic and responsive user experience.
+
+## Live Site
+
+Check out the live version of the Place Picker application here: [Place Picker Live](https://d-placepicker.netlify.app/)
 
 ## Key Features
 
